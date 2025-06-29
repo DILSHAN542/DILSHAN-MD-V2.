@@ -18,7 +18,7 @@
 <a><img src='https://files.catbox.moe/jgnhg4.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/Thenuwa2007/THENUWA-XMD/edit/main/README.md"><img title="Developer" src="https://img.shields.io/badge/Author-MR%20DILSHAN-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/DILSHAN542/DILSHAN-MD-V2./edit/main/README.md"><img title="Developer" src="https://img.shields.io/badge/Author-MR%20DILSHAN-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
