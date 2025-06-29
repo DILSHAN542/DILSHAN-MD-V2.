@@ -15,7 +15,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
-<a><img src='https://files.catbox.moe/jgnhg4.jpg'/></a>
+<a><img src='https://i.ibb.co/LD1nd30Z/e43eb3062855ae74.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/DILSHAN542/DILSHAN-MD-V2./edit/main/README.md"><img title="Developer" src="https://img.shields.io/badge/Author-MR%20DILSHAN-FF7604.svg?style=big-square&logo=github" /></a>
