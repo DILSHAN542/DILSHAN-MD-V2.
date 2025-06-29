@@ -10,7 +10,7 @@
 </a> 
 
 ---
-<h1>DILSHAN MD </h1>
+<h1>DILSHAN MD V1 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -18,7 +18,7 @@
 <a><img src='https://files.catbox.moe/jgnhg4.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/Thenuwa2007/THENUWA-XMD/edit/main/README.md"><img title="Developer" src="https://img.shields.io/badge/Author-MR%20THENULA-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Thenuwa2007/THENUWA-XMD/edit/main/README.md"><img title="Developer" src="https://img.shields.io/badge/Author-MR%20DILSHAN-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -47,7 +47,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/XdTechPro/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/XdTechPro/DILSHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -55,7 +55,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![FORK DILSHAN MD V1](https://img.shields.io/badge/FORK%20-THENUWA%20XMD%20V1-white)](https://github.com/Thenuwa2007/THENUWA-XMD)
+[![FORK DILSHAN MD V1](https://img.shields.io/badge/FORK%20-DILSHAN%20MD%20V1-white)](https://github.com/DILSHAN542/DILSHAN-MD-V2./fork)
 
 
 <p align="center">
