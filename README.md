@@ -59,7 +59,7 @@
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br> 94772194789👈Bot vada kare nathibunoth msg ekk dann
   
-
+        👆ඔය pair Link එකෙන් ගිහින් session id අරන් මට මේකට මැසෙජ් එකක් දාන්න +94772194789
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=DILSHAN+-+MD+-+V1+-++WHATSAPP+BOT" alt="">
