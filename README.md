@@ -1,8 +1,4 @@
-> **PAIRING LINK (01)**
-  <a href='https://khanmd-pair.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
+
   <div style="height: 10px;"></div>
   
 <a href="https://git.io/typing-svg">
@@ -57,6 +53,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![FORK DILSHAN MD V1](https://img.shields.io/badge/FORK%20-DILSHAN%20MD%20V1-white)](https://github.com/DILSHAN542/DILSHAN-MD-V2./fork)
+
+> **PAIRING LINK (01)**
+  <a href='https://khanmd-pair.onrender.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br> 94772194789👈Bot vada kare nathibunoth msg ekk dann
+  
 
 
 <p align="center">
