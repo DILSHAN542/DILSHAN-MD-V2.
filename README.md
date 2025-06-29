@@ -24,8 +24,7 @@
 <div align="center">
 
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbA97wVElagprBAP9W0n)
-</div>
+[![WhatsApp Channel](https://whatsapp.com/channel/0029Vb5nAex2UPBGW79XCX1T)
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=00FF00&width=435&lines=RELES+DAY+COMMING-+SOON" alt="Typing SVG" />
